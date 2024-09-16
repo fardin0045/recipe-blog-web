@@ -1,0 +1,87 @@
+ [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Chicken Stir Fry",
+        "short_description": "A quick and healthy stir fry with chicken and vegetables.",
+        "ingredients": [
+          "500 g chicken breast",
+          "100 g broccoli",
+          "1 red bell pepper",
+          "2 tbsp soy sauce",
+          "1 tbsp olive oil",
+          "2 cloves garlic"
+        ],
+        "preparing_time": "20 min",
+        "calories": "350 calories",
+        "image": "https://i.ibb.co.com/TYNXbzK/download-1.jpg"
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Spaghetti Carbonara",
+        "short_description": "Classic Italian pasta dish with creamy sauce and pancetta.",
+        "ingredients": [
+          "400 g spaghetti",
+          "200 g pancetta",
+          "2 large eggs",
+          "100 g parmesan cheese",
+          "2 cloves garlic",
+          "2 tbsp olive oil"
+        ],
+        "preparing_time": "25 min",
+        "calories": "550 calories",
+        "image": "https://i.ibb.co.com/3Tzrfcq/th.jpg"
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Caesar Salad",
+        "short_description": "A classic Caesar salad with crispy romaine lettuce and croutons.",
+        "ingredients": [
+          "1 head romaine lettuce",
+          "50 g croutons",
+          "2 tbsp Caesar dressing",
+          "50 g parmesan cheese",
+          "100 g grilled chicken",
+          "1 lemon"
+        ],
+        "preparing_time": "15 min",
+        "calories": "250 calories",
+        "image": "https://i.ibb.co.com/JF9wzLG/th-2.jpg"
+      },
+      {
+        "recipe_id": 4,
+        "recipe_name": "Beef Tacos",
+        "short_description": "Spiced ground beef served in crispy taco shells with toppings.",
+        "ingredients": [
+          "500 g ground beef",
+          "8 taco shells",
+          "1 onion",
+          "2 cloves garlic",
+          "1 tsp cumin",
+          "100 g cheddar cheese",
+          "50 g lettuce",
+          "1 tomato"
+        ],
+        "preparing_time": "30 min",
+        "calories": "450 calories",
+        "image": "https://i.ibb.co.com/y5YDKg8/OIP-3.jpg"
+      },
+      {
+        "recipe_id": 5,
+        "recipe_name": "Thai Green Curry",
+        "short_description": "A fragrant and flavorful Thai green curry with coconut milk.",
+        "ingredients": [
+          "400 g chicken breast",
+          "200 ml coconut milk",
+          "2 tbsp green curry paste",
+          "100 g green beans",
+          "1 tbsp fish sauce",
+          "1 tbsp olive oil",
+          "1 lime"
+        ],
+        "preparing_time": "40 min",
+        "calories": "400 calories",
+        "image": "https://i.ibb.co.com/X3wr9N6/download-3.jpg"
+      }
+    ]
+ 
+  
